@@ -30,4 +30,6 @@ Contributors: Yihao Liu (liuyihao14@mails.ucas.ac.cn)
 
 ## Related Challenges
 - AIM 2019 Challenge on Video Temporal Super-Resolution (in conjunction with ICCV 2019)  
-[[AIM2019 website]](https://data.vision.ee.ethz.ch/cvl/aim19//) [[Challenge website]](https://competitions.codalab.org/competitions/20244)  [[Challenge report]](https://ieeexplore.ieee.org/abstract/document/9022180)
+[[AIM2019 website]](https://data.vision.ee.ethz.ch/cvl/aim19/) [[Challenge website]](https://competitions.codalab.org/competitions/20244)  [[Challenge report]](https://ieeexplore.ieee.org/abstract/document/9022180)
+- AIM 2020 Challenge on Video Temporal Super-Resolution (in conjunction with ECCV 2020)  
+[[AIM2020 website]](https://data.vision.ee.ethz.ch/cvl/aim20/) [[Challenge website]](https://competitions.codalab.org/competitions/24584)  [[Challenge report]]
