@@ -20,7 +20,8 @@ Contributors: Yihao Liu (liuyihao14@mails.ucas.ac.cn)
 - Depth-Aware Video Frame Interpolation (CVPR2019) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Bao_Depth-Aware_Video_Frame_Interpolation_CVPR_2019_paper.pdf) [[supp]](https://openaccess.thecvf.com/content_CVPR_2019/html/Bao_Depth-Aware_Video_Frame_Interpolation_CVPR_2019_paper.html) [[GitHub]](https://github.com/baowenbo/DAIN)
 
 2018
-- Context-Aware Synthesis for Video Frame Interpolation (CVPR2018) [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Niklaus_Context-Aware_Synthesis_for_CVPR_2018_paper.pdf)- Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation (CVPR2018) [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Jiang_Super_SloMo_High_CVPR_2018_paper.pdf) [[supp]](https://openaccess.thecvf.com/content_cvpr_2018/html/Jiang_Super_SloMo_High_CVPR_2018_paper.html) [[GitHub]](https://github.com/avinashpaliwal/Super-SloMo)
+- Context-Aware Synthesis for Video Frame Interpolation (CVPR2018) [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Niklaus_Context-Aware_Synthesis_for_CVPR_2018_paper.pdf)
+- Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation (CVPR2018) [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Jiang_Super_SloMo_High_CVPR_2018_paper.pdf) [[supp]](https://openaccess.thecvf.com/content_cvpr_2018/html/Jiang_Super_SloMo_High_CVPR_2018_paper.html) [[GitHub]](https://github.com/avinashpaliwal/Super-SloMo)
 
 
 2017
