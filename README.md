@@ -7,7 +7,7 @@ Contributors: Yihao Liu (liuyihao14@mails.ucas.ac.cn)
 ### Learning-based methods
 
 2020  
-- Enhanced Quadratic Video Interpolation (ECCVW2020, winner of AIM2020 VTSR Challenge) [[paper]] [[GitHub]](https://github.com/lyh-18/EQVI)  
+- Enhanced Quadratic Video Interpolation (ECCVW2020, winner of AIM2020 VTSR Challenge) [[arXiv]](https://arxiv.org/pdf/2009.04642.pdf) [[GitHub]](https://github.com/lyh-18/EQVI)  
 - BMBC:Bilateral Motion Estimation with Bilateral Cost Volume for Video Interpolation (ECCV2020) [[arXiv]](https://arxiv.org/abs/2007.12622) [[GitHub]](https://github.com/JunHeum/BMBC)
 - All at Once: Temporally Adaptive Multi-Frame Interpolation with Advanced Motion Modeling (ECCV2020) [[arXiv]](https://arxiv.org/abs/2007.11762)
 - Softmax Splatting for Video Frame Interpolation (CVPR2020) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Niklaus_Softmax_Splatting_for_Video_Frame_Interpolation_CVPR_2020_paper.pdf) [[supp]](https://openaccess.thecvf.com/content_CVPR_2020/html/Niklaus_Softmax_Splatting_for_Video_Frame_Interpolation_CVPR_2020_paper.html) [[GitHub]](https://github.com/sniklaus/softmax-splatting)
