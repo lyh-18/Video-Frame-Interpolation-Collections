@@ -10,6 +10,7 @@ Contributors: Yihao Liu (liuyihao14@mails.ucas.ac.cn)
 - Revisiting Adaptive Convolutions for Video Frame Interpolation (WACV2021) [[arXiv]](https://arxiv.org/pdf/2011.01280.pdf)
 
 2020
+- RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation (arXiv2020) [[arXiv]](https://arxiv.org/abs/2011.06294)
 - Space-Time Video Super-Resolution Using Temporal Profiles (ACM MM2020) [[paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3413667)
 - Video Frame Interpolation without Temporal Priors (NeurIPS2020) [[paper]](https://proceedings.neurips.cc/paper/2020/file/9a11883317fde3aef2e2432a58c86779-Paper.pdf) [[supp]](https://proceedings.neurips.cc/paper/2020/hash/9a11883317fde3aef2e2432a58c86779-Abstract.html)
 - Enhanced Quadratic Video Interpolation (ECCVW2020, winner of AIM2020 VTSR Challenge) [[arXiv]](https://arxiv.org/pdf/2009.04642.pdf) [[GitHub]](https://github.com/lyh-18/EQVI)  
