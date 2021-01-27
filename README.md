@@ -8,6 +8,7 @@ Contributors: Yihao Liu (liuyihao14@mails.ucas.ac.cn)
 
 2021
 - Revisiting Adaptive Convolutions for Video Frame Interpolation (WACV2021) [[arXiv]](https://arxiv.org/pdf/2011.01280.pdf)
+- Dual-Stream Fusion Network for Spatiotemporal Video Super-Resolution (WACV2021) [[arXiv]](https://openaccess.thecvf.com/content/WACV2021/html/Tseng_Dual-Stream_Fusion_Network_for_Spatiotemporal_Video_Super-Resolution_WACV_2021_paper.html)
 
 2020
 - RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation (arXiv2020) [[arXiv]](https://arxiv.org/abs/2011.06294)
