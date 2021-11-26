@@ -7,11 +7,16 @@ Contributors: Yihao Liu (liuyihao14@mails.ucas.ac.cn)
 ### Learning-based methods
 
 2021
-- Revisiting Adaptive Convolutions for Video Frame Interpolation (WACV2021) [[arXiv]](https://arxiv.org/pdf/2011.01280.pdf)
-- Dual-Stream Fusion Network for Spatiotemporal Video Super-Resolution (WACV2021) [[arXiv]](https://openaccess.thecvf.com/content/WACV2021/html/Tseng_Dual-Stream_Fusion_Network_for_Spatiotemporal_Video_Super-Resolution_WACV_2021_paper.html)
+- Revisiting Adaptive Convolutions for Video Frame Interpolation (WACV2021) [[arXiv]](https://arxiv.org/pdf/2011.01280.pdf) [[GitHub](https://github.com/sniklaus/revisiting-sepconv)]
+- Dual-Stream Fusion Network for Spatiotemporal Video Super-Resolution (WACV2021) [[arXiv]](https://openaccess.thecvf.com/content/WACV2021/html/Tseng_Dual-Stream_Fusion_Network_for_Spatiotemporal_Video_Super-Resolution_WACV_2021_paper.html) [[supp](http://people.cs.nctu.edu.tw/~walon/publications/tseng2021wacv_supp.pdf)] [[GitHub](https://github.com/TMYuan/Dual-Stream-Fusion-Network)]
+- Deep Animation Video Interpolation in the Wild (CVPR 2021) [[paper](http://openaccess.thecvf.com/content/CVPR2021/papers/Siyao_Deep_Animation_Video_Interpolation_in_the_Wild_CVPR_2021_paper.pdf)] [[supp](http://openaccess.thecvf.com/content/CVPR2021/supplemental/Siyao_Deep_Animation_Video_CVPR_2021_supplemental.pdf)] [[GitHub](https://github.com/lisiyao21/AnimeInterp/)]
+- CDFI: Compression-Driven Network Design for Frame Interpolation (CVPR 2021) [[arXiv](http://arxiv.org/abs/2103.10559)] [[GitHub](https://github.com/tding1/CDFI)]
+- Multi-Level Adaptive Separable Convolution for Large-Motion Video Frame Interpolation (ICCV 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021W/PBDL/papers/Wijma_Multi-Level_Adaptive_Separable_Convolution_for_Large-Motion_Video_Frame_Interpolation_ICCVW_2021_paper.pdf)]
+- Time Lens: Event-Based Video Frame Interpolation (CVPR 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Tulyakov_Time_Lens_Event-Based_Video_Frame_Interpolation_CVPR_2021_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Tulyakov_Time_Lens_Event-Based_CVPR_2021_supplemental.zip)] [[GitHub](https://github.com/uzh-rpg/rpg_timelens)]
 
 2020
-- RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation (arXiv2020) [[arXiv]](https://arxiv.org/abs/2011.06294)
+
+- RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation (arXiv2020) [[arXiv]](https://arxiv.org/abs/2011.06294) [[GitHub](https://github.com/hzwer/arXiv2020-RIFE)]
 - Space-Time Video Super-Resolution Using Temporal Profiles (ACM MM2020) [[paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3413667)
 - Video Frame Interpolation without Temporal Priors (NeurIPS2020) [[paper]](https://proceedings.neurips.cc/paper/2020/file/9a11883317fde3aef2e2432a58c86779-Paper.pdf) [[supp]](https://proceedings.neurips.cc/paper/2020/hash/9a11883317fde3aef2e2432a58c86779-Abstract.html)
 - Enhanced Quadratic Video Interpolation (ECCVW2020, winner of AIM2020 VTSR Challenge) [[arXiv]](https://arxiv.org/pdf/2009.04642.pdf) [[GitHub]](https://github.com/lyh-18/EQVI)  
@@ -23,20 +28,25 @@ Contributors: Yihao Liu (liuyihao14@mails.ucas.ac.cn)
 - FeatureFlow: Robust Video Interpolation via Structure-to-Texture Generation (CVPR2020) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gui_FeatureFlow_Robust_Video_Interpolation_via_Structure-to-Texture_Generation_CVPR_2020_paper.pdf) [[supp]](https://openaccess.thecvf.com/content_CVPR_2020/html/Gui_FeatureFlow_Robust_Video_Interpolation_via_Structure-to-Texture_Generation_CVPR_2020_paper.html) [[GitHub]](https://github.com/CM-BF/FeatureFlow)
 - Blurry Video Frame Interpolation (CVPR2020) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shen_Blurry_Video_Frame_Interpolation_CVPR_2020_paper.pdf) [[GitHub]](https://github.com/laomao0/BIN)
 - Scene-Adaptive Video Frame Interpolation via Meta-Learning (CVPR2020) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_Scene-Adaptive_Video_Frame_Interpolation_via_Meta-Learning_CVPR_2020_paper.pdf) [[supp]](https://openaccess.thecvf.com/content_CVPR_2020/html/Choi_Scene-Adaptive_Video_Frame_Interpolation_via_Meta-Learning_CVPR_2020_paper.html) [[GitHub]](https://github.com/myungsub/meta-interpolation)
+- FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation (arXiv2020) [[arXiv](https://arxiv.org/pdf/2012.08512)] [[GitHub](https://github.com/tarun005/FLAVR)]
+- Channel Attention Is All You Need for Video Frame Interpolation (AAAI 2020) [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/6693/6547)] [[GitHub](https://github.com/myungsub/CAIN)]
+- FISR: Deep Joint Frame Interpolation and Super-Resolution with A Multi-scale Temporal Loss (AAAI 2020) [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/6788/6642)] [[GitHub](https://github.com/JihyongOh/FISR)]
 
 2019
+
 - Quadratic Video Interpolation (NIPS2019, winner of AIM2019 VTSR Challenge) [[paper]](http://papers.nips.cc/paper/8442-quadratic-video-interpolation.pdf) [[supp]](http://papers.nips.cc/paper/8442-quadratic-video-interpolation) [[project]](https://sites.google.com/view/xiangyuxu/qvi_nips19)
 - Unsupervised Video Interpolation Using Cycle Consistency (ICCV2019) [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Reda_Unsupervised_Video_Interpolation_Using_Cycle_Consistency_ICCV_2019_paper.pdf) [[supp]](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Reda_Unsupervised_Video_Interpolation_ICCV_2019_supplemental.pdf) [[project]](https://nv-adlr.github.io/publication/2019-UnsupervisedVideoInterpolation) [[GitHub]](https://github.com/NVIDIA/unsupervised-video-interpolation)
 - Depth-Aware Video Frame Interpolation (CVPR2019) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Bao_Depth-Aware_Video_Frame_Interpolation_CVPR_2019_paper.pdf) [[supp]](https://openaccess.thecvf.com/content_CVPR_2019/html/Bao_Depth-Aware_Video_Frame_Interpolation_CVPR_2019_paper.html) [[GitHub]](https://github.com/baowenbo/DAIN)
 - Deep Video Frame Interpolation Using Cyclic Frame Generation (AAAI2019) [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4905) [[GitHub]](https://github.com/alex04072000/CyclicGen)
+- MEMC-Net: Motion Estimation and Motion Compensation Driven Neural Network for Video Interpolation and Enhancement (PAMI 2019) [[arXiv](https://arxiv.org/pdf/1810.08768)] [[project](https://sites.google.com/view/wenbobao/memc-net)] [[GitHub](https://github.com/baowenbo/MEMC-Net)]
 
 2018
 - Context-Aware Synthesis for Video Frame Interpolation (CVPR2018) [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Niklaus_Context-Aware_Synthesis_for_CVPR_2018_paper.pdf)
 - Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation (CVPR2018) [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Jiang_Super_SloMo_High_CVPR_2018_paper.pdf) [[supp]](https://openaccess.thecvf.com/content_cvpr_2018/html/Jiang_Super_SloMo_High_CVPR_2018_paper.html) [[GitHub]](https://github.com/avinashpaliwal/Super-SloMo)
 - PhaseNet for Video Frame Interpolation (CVPR2018) [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Meyer_PhaseNet_for_Video_CVPR_2018_paper.pdf) [[supp]](https://openaccess.thecvf.com/content_cvpr_2018/Supplemental/1790-supp.pdf)
 
-
 2017
+
 - Video Frame Synthesis Using Deep Voxel Flow (ICCV2017) [[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Video_Frame_Synthesis_ICCV_2017_paper.pdf) [[supp]](https://openaccess.thecvf.com/content_iccv_2017/html/Liu_Video_Frame_Synthesis_ICCV_2017_paper.html) [[GitHub]](https://github.com/liuziwei7/voxel-flow)
 - Video Frame Interpolation via Adaptive Separable Convolution (ICCV2017) [[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Niklaus_Video_Frame_Interpolation_ICCV_2017_paper.pdf) [[GitHub]](https://github.com/sniklaus/sepconv-slomo)
 - Video Frame Interpolation via Adaptive Convolution (CVPR2017) [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Niklaus_Video_Frame_Interpolation_CVPR_2017_paper.pdf) [[supp]](https://openaccess.thecvf.com/content_cvpr_2017/html/Niklaus_Video_Frame_Interpolation_CVPR_2017_paper.html) [[GitHub]](https://github.com/sniklaus/sepconv-slomo)
